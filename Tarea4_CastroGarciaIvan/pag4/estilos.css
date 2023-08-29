@@ -1,0 +1,23 @@
+div {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    width: 90%;
+    font-family: sans-serif;
+} 
+
+p {
+    font-family: sans-serif;
+}
+
+img {
+    width:650px;
+}

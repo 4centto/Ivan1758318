@@ -1,0 +1,43 @@
+h1 {
+    border: 1px solid red;
+    padding-left: 22px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+#p {
+    border: 1px solid green;
+    margin-left: 25px;
+    margin-top: 35px;
+    height: 50px;
+    width: 100px;
+}
+
+div {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+div p {
+    margin-left: 20px;
+    width: 20%;
+    text-align: center;
+}
+
+#img1 {
+    width: 30px;
+    height: 400px;
+}
+
+#img2 {
+    width: 300px;
+    height: 300px;
+}
+
+#img4 {
+    width:650px;
+}
